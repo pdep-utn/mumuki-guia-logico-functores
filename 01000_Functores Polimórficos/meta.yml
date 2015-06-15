@@ -1,0 +1,8 @@
+locale: es
+language: prolog
+tags:
+ - pdep
+ - logico
+ - functores
+ - modelado
+ - polimorfismo

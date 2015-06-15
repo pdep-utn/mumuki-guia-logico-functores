@@ -1,0 +1,7 @@
+locale: es
+language: prolog
+tags:
+ - pdep
+ - logico
+ - functores
+ - predicados
