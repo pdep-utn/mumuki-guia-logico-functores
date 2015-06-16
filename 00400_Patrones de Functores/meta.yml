@@ -3,4 +3,5 @@ language: prolog
 tags:
  - pdep
  - logico
- - tuplas
+ - functores
+ - patrones
