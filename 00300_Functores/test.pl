@@ -7,13 +7,13 @@ test(arya_tiene_14) :-
 test(arya_es_stark) :-
   personaje(arya, stark(_, _)).
 
-test(cercei_es_mujer) :-
-  personaje(cercei, lannister(_, mujer)).
+test(cersei_es_mujer) :-
+  personaje(cersei, lannister(_, mujer)).
 
-test(cercei_tiene_34) :-
-  personaje(cercei, lannister(34, _)).
+test(cersei_tiene_34) :-
+  personaje(cersei, lannister(34, _)).
 
-test(cercei_es_lannister) :-
-  personaje(cercei, lannister(_, _)).
+test(cersei_es_lannister) :-
+  personaje(cersei, lannister(_, _)).
 
 

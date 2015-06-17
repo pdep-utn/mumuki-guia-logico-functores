@@ -1,0 +1,5 @@
+expectations:
+ - binding: esPeligroso
+   inspection: HasBinding
+ - binding: esPeligroso
+   inspection: HasUsage:casa

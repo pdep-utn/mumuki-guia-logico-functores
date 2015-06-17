@@ -3,7 +3,7 @@ A nuestra base de conocimientos de casas agreguemos a la Guardia de la Noche:
 Ejemplo:
 
 ```prolog
-casa(john,nightwatch(23,lobo(ghost)).
+casa(jon,nightwatch(23,lobo(ghost)).
 casa(sam,nightwatch(23)).
 % etc
 ```

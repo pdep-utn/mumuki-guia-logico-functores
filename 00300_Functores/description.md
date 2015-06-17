@@ -24,7 +24,7 @@ Ah, cuidado con la sintaxis: no puede haber espacios entre el nombre del functor
 > Veamos si se entiende: agregá las siguientes cláusulas a la base de conocimiento de arriba:
 >
 > * `arya` es una stark, mujer de 14
-> * `cercei` es una lannister, mujer de 34
+> * `cersei` es una lannister, mujer de 34
 
 
 
