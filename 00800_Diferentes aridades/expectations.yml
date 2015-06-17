@@ -1,5 +1,5 @@
 expectations:
- - binding: esPeligroso
+ - binding: esPersonajePeligroso
    inspection: HasBinding
  - binding: esPeligroso
-   inspection: HasUsage:casa
+   inspection: Not:HasBinding

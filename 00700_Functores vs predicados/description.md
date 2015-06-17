@@ -6,14 +6,13 @@ Hagamos unos pequeños cambios sobre la base de conocimientos que usamos antes; 
 Ejemplo:
 
 ```prolog
-casa(joffrey,lannister(310)).
-casa(tommen,lannister(50)).
-casa(cersei,lannister(450)).
-casa(arya,stark(18,lobo(nymeria)).
+personaje(joffrey,lannister(310)).
+personaje(tommen,lannister(50)).
+personaje(cersei,lannister(450)).
+personaje(arya,stark(18,lobo(nymeria))).
 ```
 
-
-Escribir un predicado que nos dice si un personaje es peligroso:
+Escribir un predicado que nos dice si, dado un nombre, corresponde a un personaje:
 
 ```prolog
 ? esPeligroso(joffrey).
@@ -21,3 +20,5 @@ true
 ```
 
 Esto ocurre cuando es un Lannister con al menos 300 monedas de oro, o si es un Stark.
+
+**Nota**: Hacerlo delegando apropiadamente en un predicado `esPersonajePeligroso/1`, que trabaje directamente sobre el functor.

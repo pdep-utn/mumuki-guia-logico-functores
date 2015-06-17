@@ -10,7 +10,7 @@ Para darnos cuenta, tenemos que ver el contexto:
 * Los predicados pueden aparecer como condiciones de una consulta, y se declaran en la base de conocimientos.
 * Mientras que los functores son **individuos** que no tienen valor de verdad, y por tanto pueden aparecer en cualquier lugar en donde podríamos tener un individuo.
 
-En este problema que resolvimos, en particular, `stark/2` y `lobo/1` son functores, mientras que `casa/2` y `esPeligroso/1`, predicados. Moraleja, las siguiente consulta **NO funciona**:
+En este problema que resolvimos, en particular, `stark/2` y `lobo/1` son functores, mientras que `personaje/2` y `esPeligroso/1`, predicados. Moraleja, las siguiente consulta **NO funciona**:
 
 ```prolog
 ? lobo(X).
