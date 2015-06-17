@@ -1,0 +1,1 @@
+Como se observa, es válido que alguna componente de un functor sea otro functor: al fin y al cabo las componentes de un functor son individuos, y los functores son un tipo de indivuo.

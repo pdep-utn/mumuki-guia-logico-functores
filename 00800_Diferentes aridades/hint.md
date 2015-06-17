@@ -1,0 +1,1 @@
+Para saber si un Guardia de la Noche tiene un lobo no hay que hacer nada nuevo: sólo _machear_ con el patrón correcto.
