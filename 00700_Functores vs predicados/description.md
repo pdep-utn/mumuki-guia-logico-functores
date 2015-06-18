@@ -12,7 +12,7 @@ personaje(cersei,lannister(450)).
 personaje(arya,stark(18,lobo(nymeria))).
 ```
 
-Escribir un predicado que nos dice si, dado un nombre, corresponde a un personaje:
+Escribir un predicado que nos dice si, dado un nombre de un personaje, es peligroso:
 
 ```prolog
 ? esPeligroso(joffrey).
