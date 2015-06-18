@@ -1,4 +1,4 @@
-Hasta trabajamos con indiviuos _simples_, de dos tipos:
+Hasta ahora trabajamos con individuos _simples_, de dos tipos:
 
 * átomos, como por ejemplo `joffrey` o `sansa`
 * números, como por ejemplo `42` o `65`
