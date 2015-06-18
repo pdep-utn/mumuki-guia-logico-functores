@@ -9,7 +9,7 @@ esPersonajePeligroso(stark(_, _)).
 esPersonajePeligroso(nightwatch(_, lobo(_))).
 ```
 
-Eso signfiica que no importa que tipo de personaje le pasemos en nuestra consulta como argumento, nuestro predicado hará lo que debe: podemos tratarlos a los personajes de **forma indiferenciada**.
+Eso significa que no importa que tipo de personaje le pasemos en nuestra consulta como argumento, nuestro predicado hará lo que debe: podemos tratarlos a los personajes de **forma indiferenciada**.
 
 > Veamos si queda claro. Desarrollá un predicado `cuantoSabePersonaje/2`, que relaciona a un personaje (el functor) con cuanto sabe éste de la vida:
 >
