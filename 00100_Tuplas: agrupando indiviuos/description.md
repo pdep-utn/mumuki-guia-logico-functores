@@ -24,4 +24,11 @@ Y podemos consultarla así:
 Personaje = (18, hombre).
 ```
 
-> Probá esta base de conocimientos en la consola. 
+> Probá esta base de conocimientos en la consola. Hacé las siguientes consultas:
+>
+> * `? personaje(jonSnow, Personaje)`.
+> * `? personaje(jonSnow, (Edad, Sexo))`.
+> * `? personaje(jonSnow, (Edad, hombre))`.
+> * `? personaje(Quien, (15, _))`.
+>
+> ¿Que conclusiones podés sacar?
