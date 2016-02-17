@@ -1,8 +1,9 @@
-locale: es
-language: prolog
+---
 tags:
- - pdep
- - logico
- - functores
- - modelado
- - polimorfismo
+- pdep
+- logico
+- functores
+- modelado
+- polimorfismo
+layout: editor_right
+type: problem

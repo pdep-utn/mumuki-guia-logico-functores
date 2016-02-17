@@ -1,9 +1,10 @@
+---
 expectations:
- - binding: esPeligroso
-   inspection: HasBinding
- - binding: esPersonajePeligroso
-   inspection: HasBinding
- - binding: esPeligroso
-   inspection: HasUsage:personaje
- - binding: esPeligroso
-   inspection: HasUsage:esPersonajePeligroso
+- binding: esPeligroso
+  inspection: HasBinding
+- binding: esPersonajePeligroso
+  inspection: HasBinding
+- binding: esPeligroso
+  inspection: HasUsage:personaje
+- binding: esPeligroso
+  inspection: HasUsage:esPersonajePeligroso

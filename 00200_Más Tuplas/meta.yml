@@ -1,6 +1,7 @@
-locale: es
-language: prolog
+---
 tags:
- - pdep
- - logico
- - tuplas
+- pdep
+- logico
+- tuplas
+layout: editor_right
+type: problem

@@ -1,7 +1,8 @@
-locale: es
-language: prolog
+---
 tags:
- - pdep
- - logico
- - functores
- - predicados
+- pdep
+- logico
+- functores
+- predicados
+layout: editor_right
+type: problem

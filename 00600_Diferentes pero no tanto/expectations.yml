@@ -1,9 +1,10 @@
+---
 expectations:
- - binding: esAdulto
-   inspection: HasBinding
- - binding: personajeAdulto
-   inspection: HasBinding
- - binding: personajeAdulto
-   inspection: HasUsage:esAdulto
- - binding: personajeAdulto
-   inspection: HasUsage:personaje
+- binding: esAdulto
+  inspection: HasBinding
+- binding: personajeAdulto
+  inspection: HasBinding
+- binding: personajeAdulto
+  inspection: HasUsage:esAdulto
+- binding: personajeAdulto
+  inspection: HasUsage:personaje

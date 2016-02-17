@@ -1,5 +1,18 @@
-name: 'Functores'
+---
+name: Functores
 locale: es
-learning: true
+type: learning
 beta: true
 language: prolog
+id_format: '%05d'
+order:
+- 100
+- 200
+- 300
+- 400
+- 500
+- 600
+- 700
+- 800
+- 900
+- 1000

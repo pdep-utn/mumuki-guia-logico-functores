@@ -24,4 +24,4 @@ Y podemos consultarla así:
 Personaje = (18, hombre).
 ```
 
-> Veamos si quedó claro: probá cargar en el editor la base de conocimientos anterior y enviarla.
+> Probá esta base de conocimientos en la consola. 
