@@ -7,7 +7,7 @@ personajeMujer(Nombre) :-
   personaje(Nombre, lannister(_, mujer)).
 ```
 
-Retimos dos veces el generador `personaje`. Te proponemos esta forma de mejorar la solución:
+Repetimos dos veces el generador `personaje`. Te proponemos esta forma de mejorar la solución:
 
 ```prolog
 personajeMujer(Nombre) :-
