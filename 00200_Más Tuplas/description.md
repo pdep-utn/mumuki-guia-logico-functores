@@ -3,3 +3,4 @@ Ahora agregá a la base de conocimiento cláusulas necesarias para incorporar la
 * `arya` es una mujer de 14
 * `cersei` es una mujer de 34
 
+> Agregá las cláusulas necesarias al predicado `personaje/2`
