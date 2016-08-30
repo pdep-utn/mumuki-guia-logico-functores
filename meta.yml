@@ -3,7 +3,7 @@ name: Functores
 locale: es
 type: learning
 beta: true
-teacher_info: 
+teacher_info: ''
 language: prolog
 id_format: '%05d'
 order:
