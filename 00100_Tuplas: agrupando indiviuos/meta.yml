@@ -4,7 +4,8 @@ tags:
 - logico
 - tuplas
 - modelado
-layout: editor_bottom
+layout: input_bottom
+editor: code
 type: playground
 extra_visible: false
 language: 

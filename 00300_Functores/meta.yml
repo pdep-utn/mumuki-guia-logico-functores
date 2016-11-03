@@ -4,7 +4,8 @@ tags:
 - logico
 - functores
 - modelado
-layout: editor_bottom
+layout: input_bottom
+editor: code
 type: problem
 extra_visible: false
 language: 
