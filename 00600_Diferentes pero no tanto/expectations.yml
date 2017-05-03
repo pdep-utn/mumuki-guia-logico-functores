@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: esAdulto
+- !ruby/hash:BSON::Document
+  binding: esAdulto
   inspection: HasBinding
-- binding: personajeAdulto
+- !ruby/hash:BSON::Document
+  binding: personajeAdulto
   inspection: HasBinding
-- binding: personajeAdulto
+- !ruby/hash:BSON::Document
+  binding: personajeAdulto
   inspection: HasUsage:esAdulto
-- binding: personajeAdulto
+- !ruby/hash:BSON::Document
+  binding: personajeAdulto
   inspection: HasUsage:personaje

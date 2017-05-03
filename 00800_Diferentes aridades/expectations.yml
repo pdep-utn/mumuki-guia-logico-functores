@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esPersonajePeligroso
+- !ruby/hash:BSON::Document
+  binding: esPersonajePeligroso
   inspection: HasBinding
-- binding: esPeligroso
+- !ruby/hash:BSON::Document
+  binding: esPeligroso
   inspection: Not:HasBinding
